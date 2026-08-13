@@ -47,8 +47,12 @@ I enjoy transforming ideas and complex business requirements into reliable, scal
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" alt="Frontend Technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,sass,tailwind,bootstrap,js,ts,react,nextjs,vite" alt="Frontend Technologies" />
 </p>
+
+**HTML · CSS · Sass · Tailwind CSS · Bootstrap · JavaScript · TypeScript · React · Next.js · Vite**
+
+---
 
 ### Backend
 
@@ -56,17 +60,103 @@ I enjoy transforming ideas and complex business requirements into reliable, scal
   <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend Technologies" />
 </p>
 
-### Databases & ORM
+**Node.js · Express.js · PHP · REST APIs · JWT · Authentication · Authorization · RBAC**
+
+---
+
+### Databases
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" alt="Database Technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase" alt="Database Technologies" />
 </p>
 
-### Tools & Platforms
+**PostgreSQL · MySQL · MongoDB · SQLite · Supabase · Firebase**
+
+---
+
+### ORM & Data Layer
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,vscode" alt="Tools and Platforms" />
+  <img src="https://skillicons.dev/icons?i=prisma" alt="ORM Technologies" />
 </p>
+
+**Prisma ORM · Database Modeling · Migrations · Relationships · Query Optimization**
+
+---
+
+### API & Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postman,graphql" alt="API Technologies" />
+</p>
+
+**REST API · API Testing · Postman · GraphQL · JSON · API Authentication · API Validation**
+
+---
+
+### DevOps & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,vercel,netlify,githubactions,nginx,linux" alt="DevOps and Deployment Technologies" />
+</p>
+
+**Docker · Linux · Nginx · GitHub Actions · Vercel · Netlify · CI/CD · Deployment**
+
+---
+
+### Version Control & Collaboration
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,gitlab" alt="Version Control Technologies" />
+</p>
+
+**Git · GitHub · GitLab · Branching · Pull Requests · Code Review · Git Workflows**
+
+---
+
+### Testing & Code Quality
+
+<p>
+  <img src="https://skillicons.dev/icons?i=jest" alt="Testing Technologies" />
+</p>
+
+**Jest · API Testing · Unit Testing · Integration Testing · ESLint · Code Formatting**
+
+---
+
+### AI & Automation
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,openai" alt="AI Technologies" />
+</p>
+
+**AI Integration · Generative AI · OpenAI APIs · AI-powered Applications · Prompt Engineering · AI Automation · Python**
+
+---
+
+### Security
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux" alt="Security Technologies" />
+</p>
+
+**JWT · RBAC · Authentication · Authorization · Password Hashing · Input Validation · CORS · Helmet · Rate Limiting · API Security**
+
+---
+
+### Development Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,figma,postman,npm,pnpm,yarn" alt="Development Tools" />
+</p>
+
+**VS Code · Figma · Postman · npm · pnpm · Yarn · Git · GitHub**
+
+---
+
+### Architecture & Engineering
+
+**Software Architecture · Full Stack Architecture · SaaS Architecture · REST API Architecture · Database Design · System Design · Modular Architecture · Authentication Architecture · RBAC · Scalable Web Applications**
 
 ---
 
