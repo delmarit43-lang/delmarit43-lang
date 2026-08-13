@@ -142,20 +142,17 @@ Developer Experience
 
 ## GitHub Activity
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=delmarit43-lang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
-    alt="Siddiik's GitHub Stats"
-  />
+<p align="left">
+  <img src="https://img.shields.io/github/followers/delmarit43-lang?style=for-the-badge&label=Followers" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/stars/delmarit43-lang?style=for-the-badge&label=Stars" alt="GitHub Stars" />
+  <img src="https://img.shields.io/github/last-commit/delmarit43-lang/delmar-dev-portfolio-v2?style=for-the-badge&label=Latest%20Commit" alt="Latest Commit" />
 </p>
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmarit43-lang&layout=compact&theme=transparent&hide_border=true"
-    alt="Siddiik's Top Languages"
-  />
+<p>
+  <a href="https://github.com/delmarit43-lang">
+    <strong>View my GitHub profile and contribution activity →</strong>
+  </a>
 </p>
-
 ---
 
 ## Open Source
