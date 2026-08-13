@@ -22,9 +22,30 @@ My primary focus is the **TypeScript and React ecosystem**, with experience acro
 
 ## About Me
 
-I'm a Full Stack Developer focused on building production-oriented web applications, SaaS platforms, management systems, and developer tools.
+I'm a **Full Stack & SaaS Developer** passionate about turning ideas and real-world problems into modern, scalable, and reliable software.
 
-I enjoy transforming ideas and complex business requirements into reliable, scalable, secure, and user-friendly software.
+I work across the full development lifecycle, from designing intuitive frontend experiences to building secure backend systems, APIs, databases, authentication, and deployment infrastructure.
+
+My main ecosystem is **TypeScript, React, Node.js, PostgreSQL, and Prisma**, while I also work with modern cloud, DevOps, security, and AI technologies.
+
+I'm particularly interested in building:
+
+* Scalable SaaS platforms
+* Business and management systems
+* Modern web applications
+* Secure APIs and backend systems
+* Database-driven applications
+* AI-powered applications and automation
+* Developer tools and open-source projects
+
+I believe great software combines **clean engineering, thoughtful architecture, good user experience, security, and real business value**.
+
+I'm continuously learning, building, experimenting with new technologies, and sharing what I learn through real-world projects.
+
+### My Current Focus
+
+**Full Stack Development · SaaS · System Design · AI Integration · Backend Architecture · Database Engineering · Security · Open Source**
+
 
 ## What I Do
 
