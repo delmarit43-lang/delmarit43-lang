@@ -4,14 +4,17 @@
 
 I build modern, scalable web applications and digital systems that solve real-world problems.
 
-My primary focus is on the **TypeScript and React ecosystem**, with experience across frontend development, backend engineering, databases, authentication, APIs, and SaaS architecture.
+My primary focus is the **TypeScript and React ecosystem**, with experience across frontend development, backend engineering, databases, APIs, authentication, and SaaS architecture.
 
 <p align="left">
-  <a href="https://delmar-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Portfolio-2563EB?style=for-the-badge" alt="Portfolio" />
+  <a href="https://delmar-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="https://www.linkedin.com/in/siddiik Awil/">
+  <a href="https://www.linkedin.com/in/siddiik-awil/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/delmarit43-lang">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
@@ -21,17 +24,17 @@ My primary focus is on the **TypeScript and React ecosystem**, with experience a
 
 I'm a Full Stack Developer focused on building production-oriented web applications, SaaS platforms, management systems, and developer tools.
 
-I enjoy turning ideas and complex business requirements into reliable, scalable, and user-friendly software.
+I enjoy transforming ideas and complex business requirements into reliable, scalable, secure, and user-friendly software.
 
-### What I focus on
+### What I Do
 
 * Full Stack Web Development
 * SaaS Application Development
-* REST API Design
+* REST API Development
 * Database Architecture
 * Authentication & Authorization
 * Role-Based Access Control
-* Admin Dashboards
+* Admin Dashboard Development
 * Business Management Systems
 * Modern React Applications
 * Backend Architecture
@@ -44,25 +47,25 @@ I enjoy turning ideas and complex business requirements into reliable, scalable,
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" alt="Frontend technologies" />
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,ts,react,nextjs,vite" alt="Frontend Technologies" />
 </p>
 
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend technologies" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php" alt="Backend Technologies" />
 </p>
 
 ### Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" alt="Database technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,prisma,supabase" alt="Database Technologies" />
 </p>
 
 ### Tools & Platforms
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,vscode" alt="Development tools" />
+  <img src="https://skillicons.dev/icons?i=git,github,postman,docker,vercel,netlify,vscode" alt="Tools and Platforms" />
 </p>
 
 ---
@@ -73,7 +76,7 @@ I enjoy turning ideas and complex business requirements into reliable, scalable,
 
 A modern school management platform designed to help schools manage students, attendance, finance, academic operations, and administrative workflows from a centralized system.
 
-**Tech:** React, TypeScript, Vite, Tailwind CSS, PostgreSQL
+**Tech Stack:** React, TypeScript, Vite, Tailwind CSS, PostgreSQL
 
 ---
 
@@ -81,15 +84,15 @@ A modern school management platform designed to help schools manage students, at
 
 A full-stack file management and workflow platform focused on secure file handling, authentication, authorization, and scalable backend architecture.
 
-**Tech:** Node.js, Express, TypeScript, Prisma, PostgreSQL, JWT, Docker
+**Tech Stack:** Node.js, Express, TypeScript, Prisma, PostgreSQL, JWT, Docker
 
 ---
 
 ### Rugta-Bukhaari
 
-A digital library platform designed to organize books, manage library resources, and provide a modern user experience for digital library operations.
+A digital library platform designed to organize books, manage library resources, and provide a modern experience for digital library operations.
 
-**Tech:** React, TypeScript, PostgreSQL, Vercel
+**Tech Stack:** React, TypeScript, PostgreSQL, Vercel
 
 ---
 
@@ -97,7 +100,7 @@ A digital library platform designed to organize books, manage library resources,
 
 My personal developer portfolio showcasing my projects, technical skills, experience, and work as a Full Stack Developer.
 
-**Tech:** React, TypeScript, Tailwind CSS, Vite
+**Tech Stack:** React, TypeScript, Tailwind CSS, Vite
 
 ---
 
@@ -107,30 +110,30 @@ I'm currently focused on:
 
 * Building scalable SaaS applications
 * Improving backend architecture
-* Exploring advanced PostgreSQL and Prisma patterns
-* Building secure authentication and RBAC systems
-* Improving system design and API architecture
+* Designing reliable REST APIs
+* Working with PostgreSQL and Prisma
+* Building secure authentication systems
+* Implementing Role-Based Access Control
+* Improving system design skills
 * Contributing to open source
-* Creating developer-focused technical content
+* Creating technical content for developers
 
 ---
 
 ## Engineering Interests
 
-I'm particularly interested in:
-
 ```text
-Software Architecture
-        ↓
 Full Stack Development
         ↓
-SaaS Platforms
+SaaS Architecture
         ↓
 API Design
         ↓
 Database Engineering
         ↓
 Authentication & Security
+        ↓
+System Design
         ↓
 Developer Experience
 ```
@@ -140,15 +143,17 @@ Developer Experience
 ## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=delmarit43-lang&show_icons=true&hide_border=true&rank_icon=github" alt="Siddiik's GitHub Stats" />
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=delmarit43-lang&show_icons=true&theme=transparent&hide_border=true&rank_icon=github"
+    alt="Siddiik's GitHub Stats"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=delmarit43-lang&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmarit43-lang&layout=compact&hide_border=true" alt="Top Languages" />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=delmarit43-lang&layout=compact&theme=transparent&hide_border=true"
+    alt="Siddiik's Top Languages"
+  />
 </p>
 
 ---
@@ -157,7 +162,14 @@ Developer Experience
 
 I'm interested in building and contributing to open-source projects that solve practical problems for developers, businesses, schools, and organizations.
 
-My goal is to build software that is not only functional, but also well documented, maintainable, secure, and useful to other developers.
+My goal is to build software that is:
+
+* Useful
+* Maintainable
+* Secure
+* Well documented
+* Scalable
+* Accessible to other developers
 
 If you find one of my projects useful, feel free to:
 
@@ -169,19 +181,41 @@ If you find one of my projects useful, feel free to:
 
 ---
 
+## Development Philosophy
+
+I believe good software is not only about writing code.
+
+It is about understanding the problem, designing the right solution, building maintainable systems, and creating an experience that people can actually use.
+
+```text
+Understand the Problem
+        ↓
+Design the Solution
+        ↓
+Build the System
+        ↓
+Test & Improve
+        ↓
+Document
+        ↓
+Ship
+```
+
+---
+
 ## Let's Connect
 
-I'm always interested in connecting with developers, founders, engineers, and people building useful technology.
+I'm always interested in connecting with developers, software engineers, founders, and people building useful technology.
 
 <p align="left">
-  <a href="https://delmar-dev.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  <a href="https://delmar-dev.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-2563EB?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/siddiik-awil/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/delmarit43-lang">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
