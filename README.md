@@ -26,19 +26,52 @@ I'm a Full Stack Developer focused on building production-oriented web applicati
 
 I enjoy transforming ideas and complex business requirements into reliable, scalable, secure, and user-friendly software.
 
-### What I Do
+## What I Do
 
-* Full Stack Web Development
-* SaaS Application Development
-* REST API Development
-* Database Architecture
-* Authentication & Authorization
-* Role-Based Access Control
-* Admin Dashboard Development
-* Business Management Systems
-* Modern React Applications
-* Backend Architecture
-* Open Source Development
+### Full Stack Development
+
+Build complete, production-ready web applications from modern frontend interfaces to scalable backend systems, APIs, databases, authentication, and deployment.
+
+### Frontend Engineering
+
+Create responsive, accessible, and high-performance user interfaces using React, Next.js, TypeScript, Tailwind CSS, and modern frontend architecture.
+
+### Backend Engineering
+
+Develop secure and scalable backend systems using Node.js, Express.js, PHP, REST APIs, authentication, authorization, RBAC, validation, and business logic.
+
+### SaaS Development
+
+Design and build SaaS platforms, management systems, dashboards, and business applications with scalable architecture and real-world workflows.
+
+### Database Engineering
+
+Design relational and NoSQL databases, data models, relationships, migrations, queries, and scalable data layers using PostgreSQL, MySQL, MongoDB, Prisma, Supabase, and Firebase.
+
+### API Development
+
+Build and integrate REST APIs with structured endpoints, authentication, validation, error handling, documentation, and reliable client-server communication.
+
+### AI & Intelligent Applications
+
+Integrate AI into modern web applications to build intelligent features, automation workflows, AI-powered assistants, content generation, data processing, and developer productivity tools.
+
+### Authentication & Security
+
+Implement secure authentication and authorization systems using JWT, RBAC, password hashing, input validation, CORS, rate limiting, security headers, and secure API practices.
+
+### DevOps & Deployment
+
+Containerize and deploy applications using Docker, Linux, GitHub Actions, Vercel, Netlify, Nginx, and modern CI/CD workflows.
+
+### System Design & Architecture
+
+Design modular, maintainable, and scalable application architectures that connect frontend, backend, databases, APIs, authentication, and infrastructure into reliable software systems.
+
+### Open Source & Developer Tools
+
+Build reusable developer-focused projects, document software properly, contribute to open source, and create tools that help developers and organizations solve practical problems.
+
 
 ---
 
